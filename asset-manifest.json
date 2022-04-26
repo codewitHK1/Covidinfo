@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Covidinfo/static/css/main.5991e476.css",
+    "main.js": "/Covidinfo/static/js/main.506b9641.js",
+    "index.html": "/Covidinfo/index.html",
+    "main.5991e476.css.map": "/Covidinfo/static/css/main.5991e476.css.map",
+    "main.506b9641.js.map": "/Covidinfo/static/js/main.506b9641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5991e476.css",
+    "static/js/main.506b9641.js"
+  ]
+}
